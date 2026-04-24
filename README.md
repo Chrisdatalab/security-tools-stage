@@ -41,4 +41,4 @@ PORT    STATUS    SERVICE
 - It is not as accurate as professional tools like nmap.
 - Open port detection may produce false positives  
 - Service detection relies on basic pattern matching and is limited  
-- The scanner produces inconsistent
+- The scanner may produce inconsistent results depending on network conditions and service behavior.
